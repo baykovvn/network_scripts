@@ -1,4 +1,5 @@
 # network_scripts
-For normal use you have to create two files. 
-One with list of switch IP adresses (or other devices) and another file for list of commands for exec (predefined file name: command_line_input).
-Of course, you must know admin login and pasword and use ssh on you network equipment
+You have to create two files for normal use:
+- one with the list of switch IP adresses (or other devices) 
+- another file must contains list of commands for exec (predefined file name: command_line_input).
+Of course, you have to use ssh credentials with correct right.
